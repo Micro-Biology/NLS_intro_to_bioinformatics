@@ -7,4 +7,3 @@ For simplicities sake, a lot of this section is lifted directly from the source 
 
 https://automatetheboringstuff.com/chapter0/
 
-which also details how to install python
