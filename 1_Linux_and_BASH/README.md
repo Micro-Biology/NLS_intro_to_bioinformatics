@@ -16,11 +16,11 @@ this will direct us to your home directory:
 
     cd ~
     
-This will direct us to the folder QiimeScripts in the home directory no matter where we currently are:
+This will direct us to the folder Scripts in the home directory no matter where we currently are:
     
     cd ~/Scripts
     
-This will direct us to the folder QiimeScripts that is contained within the current target directory:
+This will direct us to the folder Scripts that is contained within the current target directory:
     
     cd Scripts 
     
