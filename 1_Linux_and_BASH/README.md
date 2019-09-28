@@ -2,11 +2,13 @@
 
 ## Linux:
 
-Linux is an operating system, just like windows. For bioinmformatics it is preferable to use a Linux based operating system in order to have maximum compatibility with software we need.
+Linux is an operating system, just like windows. For bioinformatics it is preferable to use a Linux based operating system in order to have maximum compatibility with software we need.
 
-## BASH:
+## BASH and the terminal:
 
 BASH is the terminal used by default in ubuntu, and is predominantly used to manage other scripts, for folder navigation, moving/copying files, and other OS actions.
+
+To open the terminal press the OS button (windows icon) and type terminal, and select the terminal and click.
 
 ### Folder navigation, and moving files
 
@@ -36,7 +38,7 @@ But wait you're saying you got an error when running 'cd ~/Scripts':
 
 This is because you don't have a directory ~/Scripts, lets make one using the 'mkdir' command:
 
-    mkdir eScripts
+    mkdir Scripts
     
 And if you need to make a chain of folders:
 
@@ -123,7 +125,7 @@ And then simply:
     
 ## Trouble shooting
     
-You will probably get some sort of errors, make sure your directories are called correctly, and that file names match. Most/any of the scripts in this tutorial will work when using shell scripts, so knock yourself out. Additonally ther is one more command I find very useful for working out where in your pipeline you are up to, echo:
+You will probably get some sort of errors, make sure your directories are called correctly, and that file names match. Most/any of the scripts in this tutorial will work when using shell scripts, so knock yourself out. Additonally there is one more command that is  useful for working out where in your pipeline you are up to. The echo command:
 
     echo "Hello World!"
     echo "Copying files to Analysis folder"
