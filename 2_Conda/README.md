@@ -5,7 +5,7 @@ We will be using conda to manage our python environment.
 
 For quick reference I have bundled a 'cheat sheet' for conda, the original can be found here: https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html
 
-I will keep this section breif for now as most things are easy enough to understand on the cheatsheet, and will update this page as/when questions are asked.
+I will keep this section brief for now as most things are easy enough to understand on the cheatsheet, and will update this page as/when questions are asked.
 
 To install our python environment simply run:
 
