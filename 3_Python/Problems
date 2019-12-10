@@ -1,0 +1,9 @@
+import math
+a,n,pastSolution=0.125,1,0
+while (1):
+    solution=pastSolution+n*math.pow(a,n)
+    n=n+1
+    if pastSolution==solution: break
+    pastSolution=solution
+finalAnswer=math.floor(solution*8091+1)
+print("Solution:",solution,"\nFinal Answer:",finalAnswer)
